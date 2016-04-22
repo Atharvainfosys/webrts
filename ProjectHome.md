@@ -1,0 +1,1 @@
+WebRTS is CRM System to manage the business operation for small business company.The function include the customer management,product inventory management and accountant administration etc.
